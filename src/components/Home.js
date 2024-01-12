@@ -1,4 +1,4 @@
-import { VscMail,VscSymbolRuler, } from "react-icons/vsc";
+//import { VscMail,VscSymbolRuler, } from "react-icons/vsc";
 import { AiFillGoogleCircle,AiFillFileText,AiFillGithub,AiFillLinkedin } from "react-icons/ai";
 //import { useState } from "react";
 import "./tooltip.css";
@@ -9,7 +9,7 @@ function Home() {
     return (
        <div className="flex flex-wrap h-screen justify-center gap-4">
         <div className="w-6/12 sm:w-4/12 px-4">
-            <img className="h-96 w-96 rounded-full object-cover object-center" src={Myimage} alt="my picture" />
+            <img className="h-96 w-96 rounded-full object-cover object-center" src={Myimage} alt="my" />
         </div>
         <div className="flex flex-col gap-6">
             <div>
