@@ -23,7 +23,8 @@ function App() {
       <Route path="/education"><Education /></Route>
       <Route path="/skills"><Skills /></Route>
       <Route path="/experience"><Experience /></Route>
-      <Route path="/contact"><Contact /></Route></div>
+      <Route path="/contact"><Contact /></Route>
+      </div>
     </div>
   );
 }

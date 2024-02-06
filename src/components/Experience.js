@@ -17,19 +17,19 @@ function Experience() {
                 </div>
                 <div className="pl-20">
                     <p className="mb-4 text-lg font-normal text-gray-500 dark:text-gray-400">
-                    Development of REST APIs using Mule4
+                    Development of REST APIs using Java Spring Boot
                     </p>
                     <p className="mb-4 text-lg font-normal text-gray-500 dark:text-gray-400">
-                    Migration of Mule3.9 applications to Mule4
+                    Production enhancement and support for Java applications
                     </p>
                     <p className="mb-4 text-lg font-normal text-gray-500 dark:text-gray-400">
-                    Applied Java or Python code modules in Mule 4 Components to improve performance
+                    Applied Java and Python code modules in Mule 4 Components to improve performance
                     </p>
                     <p className="mb-4 text-lg font-normal text-gray-500 dark:text-gray-400">
                     Conversion of Java code to Mule 4 applications 
                     </p>
                     <p className="mb-4 text-lg font-normal text-gray-500 dark:text-gray-400">
-                    Production enhancement and support for Mule4 applications
+                    Migration of Mule3.9 applications to Mule4
                     </p>
                     </div>
             </div>

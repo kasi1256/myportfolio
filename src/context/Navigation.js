@@ -8,6 +8,7 @@ function NavProvider({ children }){
 
     useEffect(() => {
         const popHandler = () => {
+            
             setCurrentpath(window.location.pathname);
         };
 

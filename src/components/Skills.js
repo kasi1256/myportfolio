@@ -3,6 +3,7 @@ import JavaScript from "../js.svg";
 import Python from "../python.svg";
 import Rt from "../logo192.png";
 import Sp from "../spring.svg";
+import Boot from "../boot.png";
 
 function Skills() {
     return (
@@ -38,7 +39,7 @@ function Skills() {
                 </div>
             </div>
             <div className="flex flex-col items-center">
-            <img className="h-48 w-48 rounded-full" src="https://inceptum.s3.us-east-1.amazonaws.com/tdUicl11Joyw/springBoot.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIA3HNMG24SATQ2TORO%2F20240111%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240111T204146Z&X-Amz-Expires=345600&X-Amz-Signature=84376698c29823a9f4219f7409fdfc10342430cc07c03160b7283484e8d9206e&X-Amz-SignedHeaders=host&x-id=GetObject" alt="Spring boot"/>
+            <img className="h-48 w-48 rounded-full" src={Boot} alt="Spring boot"/>
                 <div>
                     <strong>Spring Boot</strong>
                 </div>
