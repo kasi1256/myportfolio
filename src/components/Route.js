@@ -10,7 +10,7 @@ function Route({path,children})
         if ( k === -1){
             navigate("/");
         }
-    console.log(currentPath);
+    //console.log(currentPath);
         if(path === currentPath){
             //console.log(path);
             return children;

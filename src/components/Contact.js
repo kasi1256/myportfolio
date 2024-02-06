@@ -9,11 +9,11 @@ function Contact() {
 
     const handleSubmit = (event) => {
         event.preventDefault();
-        console.log(formData.email);
+        //console.log(formData.email);
         
         emailjs.send('myEmailService', 'template_kyy2q8e', formData,"hFiIzp48SaSfSYM6-")
         .then(function(response) {
-            console.log('SUCCESS!', response.status, response.text);
+            //console.log('SUCCESS!', response.status, response.text);
          }, function(error) {
             console.log('FAILED...', error);
          });
