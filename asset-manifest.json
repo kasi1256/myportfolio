@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/personalwebsite/static/css/main.fc83f3f5.css",
-    "main.js": "/personalwebsite/static/js/main.6bbb9622.js",
-    "static/media/resume_image.jpeg": "/personalwebsite/static/media/resume_image.0c541759fa2c27f0e21f.jpeg",
-    "static/media/resume.pdf": "/personalwebsite/static/media/resume.c56aef566cdc87b90eeb.pdf",
-    "static/media/java.svg": "/personalwebsite/static/media/java.68585ce8dadbd8ecebdc99a764c5c1cf.svg",
-    "static/media/python.svg": "/personalwebsite/static/media/python.62e8a4442709e711eb8c89041804c775.svg",
-    "static/media/spring.svg": "/personalwebsite/static/media/spring.4075d0e0bcbcb1988713ccf4ab5ceb71.svg",
-    "static/media/js.svg": "/personalwebsite/static/media/js.a85a7da1524412b41f8df2bf45e4280a.svg",
-    "index.html": "/personalwebsite/index.html",
-    "main.fc83f3f5.css.map": "/personalwebsite/static/css/main.fc83f3f5.css.map",
-    "main.6bbb9622.js.map": "/personalwebsite/static/js/main.6bbb9622.js.map"
+    "main.css": "/myportfolio/static/css/main.fc83f3f5.css",
+    "main.js": "/myportfolio/static/js/main.e103bd43.js",
+    "static/media/resume_image.jpeg": "/myportfolio/static/media/resume_image.0c541759fa2c27f0e21f.jpeg",
+    "static/media/resume.pdf": "/myportfolio/static/media/resume.c56aef566cdc87b90eeb.pdf",
+    "static/media/java.svg": "/myportfolio/static/media/java.68585ce8dadbd8ecebdc99a764c5c1cf.svg",
+    "static/media/python.svg": "/myportfolio/static/media/python.62e8a4442709e711eb8c89041804c775.svg",
+    "static/media/spring.svg": "/myportfolio/static/media/spring.4075d0e0bcbcb1988713ccf4ab5ceb71.svg",
+    "static/media/js.svg": "/myportfolio/static/media/js.a85a7da1524412b41f8df2bf45e4280a.svg",
+    "index.html": "/myportfolio/index.html",
+    "main.fc83f3f5.css.map": "/myportfolio/static/css/main.fc83f3f5.css.map",
+    "main.e103bd43.js.map": "/myportfolio/static/js/main.e103bd43.js.map"
   },
   "entrypoints": [
     "static/css/main.fc83f3f5.css",
-    "static/js/main.6bbb9622.js"
+    "static/js/main.e103bd43.js"
   ]
 }
