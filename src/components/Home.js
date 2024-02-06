@@ -19,7 +19,7 @@ function Home() {
                 
                 <p className="text-5xl font-medium leading-tight text-primary">Currently pursuing Masters in Columbus State University</p>
                     <div className="flex flex-row gap-4">
-                        <div className="tooltip"><AiFillGoogleCircle className="size-6"/><span className="tooltiptext">viswanathgundapaneedi@gmail.com</span></div> 
+                        <div className="tooltip"><AiFillGoogleCircle className="size-6"/><span className="tooltiptext">viswanathgundapaneedi97@gmail.com</span></div> 
                             <div className="">
                                 <a href={resume} target="_blank"
                                     rel="noreferrer">
