@@ -5,7 +5,7 @@ function Experience() {
             <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Infosys_logo.svg" alt="Infosys Logo" />
         </div>
         <div>
-            <p className="ms-2 font-semibold text-gray-500 dark:text-gray-400">I have worked in Infosys Limited, Hyderabad, India for approximately four years</p>
+            <p className="ms-2 font-semibold text-gray-500 dark:text-gray-400">I have worked in Infosys Limited, Hyderabad, India for four years</p>
         </div>
         <div>
             <p className="ms-2 font-semibold text-gray-500 dark:text-gray-400">Below are the projects I have worked on during my work experience</p>
